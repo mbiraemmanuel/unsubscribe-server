@@ -1,0 +1,15 @@
+{
+  "name": "unsubscribe-server",
+  "version": "1.0.0",
+  "description": "Server to facilitate unsubscribe link for marketing emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Maina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-salesforce": "^0.8.0"
+  }
+}
