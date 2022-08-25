@@ -1,0 +1,50 @@
+{
+    "dev": {
+        "oauth_details": {
+            "oauth2": {
+                "loginUrl": "https://voicebrook--qb.my.salesforce.com/",
+                "clientId": "3MVG9ayzKZt5EleHUfSUY6zUwpnSYUuBMKQ.OtEHjvqtjRjuoF6Y48emcmE.l7LUC9OwodAbfcQELRsCeg7rW",
+                "clientSecret": "70A75D512F361BF59215CD0AD3115F8C98DD175E45978B27D7AB01A50D0990F4",
+                "callbackUrl": "http://localhost:3000/oauth2/callback"
+            }
+        },
+        "auth_info": {
+            "username": "emmanuel.maina@voicebrook.com.QB",
+            "password": "%wX11#wWraa5*ZcG8yLFB0nVEwiWAJ4uBLp0zBJ5V"
+        }
+    },
+    "prod": {
+        "oauth_details": {
+            "oauth2": {
+                "loginUrl": "https://voicebrook.my.salesforce.com",
+                "clientId": "3MVG9CVKiXR7Ri5rBYjG4YnRsip1DxTRKxMyTa4Yb.KbAeMOAaO6NO.peDZMQNKksSDYDXWfSFHmWtF.kPDTi",
+                "clientSecret": "F2E65401B9628A21D2E4E9E898E8019297238911B6358AA04AEF5B386299AB3E",
+                "callbackUrl": "http://localhost:3000/oauth2/callback"
+            }
+        },
+        "auth_info": {
+            "username": "emmanuel.maina@voicebrook.com",
+            "password": "U75sjzC1a$j0vr4vgztmVhrIJbrkKq7281BjWHYf1Y"
+        }
+    },
+    "test": {
+        "oauth_details": {
+            "oauth2": {
+                "loginUrl": "https://login.salesforce.com",
+                "clientId": "3MVG9fTLmJ60pJ5KEgBaN2L5goY_B3eq5mF4XuVBMFZkrbNfn_IvP0p0cXlaeSca2A46u9OvaB2nAXrD7L.bl",
+                "clientSecret": "DA5431DDCAAF75560B7A29373CBCDF46E63A570D0A04BDB9A01ED3E23C251A85",
+                "callbackUrl": "https://localhost:8080/callback"
+            }
+        },
+        "auth_info": {
+            "username": "mbiraemmanuel@gmail.com",
+            "password": "Mutur!1981cIjXMoe62sDM2mP8K6GBOv6c"
+        }
+    },
+    "oauth2": {
+        "loginUrl": "https://voicebrook.my.salesforce.com",
+        "clientId": "3MVG9CVKiXR7Ri5rBYjG4YnRsip1DxTRKxMyTa4Yb.KbAeMOAaO6NO.peDZMQNKksSDYDXWfSFHmWtF.kPDTi",
+        "clientSecret": "F2E65401B9628A21D2E4E9E898E8019297238911B6358AA04AEF5B386299AB3E",
+        "callbackUrl": "https://localhost:8080/callback"
+    }
+}
